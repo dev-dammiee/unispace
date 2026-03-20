@@ -14,7 +14,7 @@ export default function Footer() {
     <footer className="bg-[#f3f5f9] pt-20">
       
       {/* MAIN FOOTER */}
-      <div className="bg-gradient-to-b from-[#2947a8] to-[#2046AF] 
+      <div className="bg-linear-to-b from-[#2947a8] to-[#2046AF] 
                       rounded-t-[60px] px-10 lg:px-24 py-16 text-white">
         
         <div className="max-w-7xl mx-auto grid md:grid-cols-2 lg:grid-cols-4 gap-12">
@@ -91,7 +91,7 @@ export default function Footer() {
 
         {/* BOTTOM BAR */}
         <div className="border-t border-white/20 mt-16 pt-6 text-center text-blue-100 text-sm">
-          © 2024 UniSpace. All rights reserved | developed by guru devs
+          © 2026 UniSpace. All rights reserved | developed by guru devs
         </div>
       </div>
     </footer>

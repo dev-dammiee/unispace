@@ -3,13 +3,13 @@ import Navbar from './Navbar'
 
 function Hero() {
   return (
-   <section className="min-h-screen pt-5 bg-gradient-to-br from-[#1e3cff] via-[#1b66ff] to-[#18a9e6] relative">
+   <section className="min-h-screen pt-5 bg-linear-to-br from-[#1e3cff] via-[#1b66ff] to-[#18a9e6] relative">
     
     <Navbar />
 
    <section className="flex flex-col items-center text-center px-6 text-white pt-24">
 
-      {/* Heading */}
+      
       <h1 className="text-5xl md:text-6xl font-extrabold leading-tight max-w-4xl">
         Don&apos;t Just Book a Seat.
         <br />

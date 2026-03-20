@@ -78,7 +78,7 @@ function Navbar() {
         </div>
       </div>
 
-      {/* Overlay */}
+     
       {menuOpen && (
         <div
           className="fixed inset-0 bg-black/40 z-40"
